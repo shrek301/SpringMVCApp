@@ -17,7 +17,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.source>1.7</maven.compiler.source>
         <maven.compiler.target>1.7</maven.compiler.target>
-        <sping.version>5.2.7.RELEASE</sping.version>
+        <sping.version>6.0.0</sping.version>
     </properties>
 
     <dependencies>
